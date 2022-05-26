@@ -13,6 +13,7 @@ export function SiteHeader() {
                     {/* <Link to="/" className="nav-link">CV</Link>
                     <Link to="/detalles/:id" className="nav-link">Detalles</Link>
                     <Link to="/categoria/:id" className="nav-link">Categoria</Link> */}
+                    <li>Mexicano. Superviviente de una pandemia.</li>
                 </ul>
             </nav>
         </header>

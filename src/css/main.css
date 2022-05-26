@@ -510,7 +510,7 @@ small {
 }
 
 .title {
-  color: #77b49e;
+  color: #00bbba;
   position: relative;
   width: 100%;
   text-align: center;
@@ -527,7 +527,7 @@ small {
 .title:after {
   content: " ";
   display: block;
-  border-bottom: 1px solid #77b49e;
+  border-bottom: 1px solid #00bbba;
 }
 
 .badge {
@@ -552,8 +552,8 @@ small {
 
 .site-header {
   color: #083949;
-  background-color: #f9f8ec;
-  border-bottom: 1px solid #77b49e;
+  background-color: #ffffff;
+  border-bottom: 1px solid #00bbba;
 }
 
 .main-navigation {
@@ -666,7 +666,7 @@ small {
      object-fit: cover;
   border-radius: 50%;
   margin-bottom: 30px;
-  border: 5px solid rgba(119, 180, 158, 0.5);
+  border: 5px solid rgba(0, 187, 186, 0.5);
 }
 
 .avatar__name {
@@ -691,7 +691,7 @@ small {
 }
 
 .contact__link:hover {
-  color: #77b49e;
+  color: #00bbba;
   -webkit-transform: translateX(5px);
           transform: translateX(5px);
 }
@@ -725,7 +725,7 @@ small {
 }
 
 .card__header__date {
-  color: #77b49e;
+  color: #00bbba;
 }
 
 .card__content {

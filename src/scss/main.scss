@@ -5,7 +5,7 @@
 $main-color: #083949;
 $secondary-color: #215a5c;
 $accent-color: #3d7c71;
-$light-green-color: #77b49e;
+$light-green-color: #00bbba;
 $light-color: #f9f8ec;
 $gray-color: #f4f4f4;
 $light-gray-color: #f9f9f9;
@@ -100,7 +100,7 @@ small {
 //Header
 .site-header {
 	color: $main-color;
-	background-color: $light-color;
+	background-color: $main-bg;
 	border-bottom: 1px solid $light-green-color;
 }
 .main-navigation {

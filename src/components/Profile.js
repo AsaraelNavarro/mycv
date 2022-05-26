@@ -17,6 +17,9 @@ export function Profile() {
                 <a className="contact__link mail" href="mailto:asarael.navarro@gmail.com" target="_blank" rel="noopener noreferrer" >
                     <FontAwesomeIcon icon={solid('envelope')} /> asarael.navarro@gmail.com
                 </a>
+                <a className="contact__link mail" href="https://www.linkedin.com/in/asarael-navarro/" target="_blank" rel="noopener noreferrer" >
+                    <FontAwesomeIcon icon={brands('linkedin')} /> /asarael-navarro
+                </a>
                 <a className="contact__link behance" href="https://www.behance.net/asarael_navarro" target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={brands('behance')} /> /asarael_navarro
                 </a>
